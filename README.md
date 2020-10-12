@@ -6,3 +6,4 @@
 4.Add two numbers stored in 2 different list in a 3rd one.
 6.Given 2 sorted list and return a list with common elements from both the list(Rev order).
 7.Given 2 sorted list and return a list with common elements from both the list(correct order).
+8.
