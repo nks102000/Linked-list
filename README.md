@@ -8,4 +8,4 @@
 7.Given 2 sorted list and return a list with common elements from both the list(correct order).
 8.Given 2 sorted list and return a list with common elements from both the list(correct order 
   using a dummy object).
-9.
+9.Check the presence of loop in a linked list.
