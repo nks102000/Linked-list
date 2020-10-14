@@ -11,4 +11,4 @@
 9.Check the presence of loop in a linked list.
 10.Write a program to reverse the nodes of a linked list group wise.
 11.Write a program to delete the last occurrence of an element in a linked list.
-12
+12.
