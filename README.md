@@ -13,3 +13,4 @@
 11.Write a program to delete the last occurrence of an element in a linked list.
 12.Write a program to represent two polynomials using a linked list.
 13.Write a program to delete the nth node from last in a single linked list.
+14.Write a program to check if 2 lists merge at any point.
