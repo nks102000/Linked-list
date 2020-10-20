@@ -16,3 +16,5 @@
 14.Write a program to check if 2 lists merge at any point.
 15.Find mid node of list.
 16.Insert and display a value n number of times(array implementation).
+17.     A list and a value x is given rearrange the values that all the data less than or equal to 
+        x apperar before x in the list.
