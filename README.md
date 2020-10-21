@@ -19,3 +19,4 @@
 17.A list and a value x is given rearrange the values that all the data less than or equal to 
    x apperar before x in the list.
 18.Remove duplicate nodes in a sorted list(traverce only once).
+19.
