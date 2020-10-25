@@ -22,3 +22,4 @@
 19.Split a list into 2 as new list contain alternate nodes.
 20.Find nth node from the end.(O(n)).
 21.Check the presence of loop in a linked list.If yes give the start and length of loop.
+22.Insert node in sorted list.
