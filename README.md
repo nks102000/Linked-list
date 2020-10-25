@@ -24,4 +24,4 @@
 21.Check the presence of loop in a linked list.If yes give the start and length of loop.
 22.Insert node in sorted list.
 23.REVERSE A LINKED LIST.
-24.     REVERsE A LINKED LIST.(Recursive)
+24.REVERSE A LINKED LIST.(Recursive)
