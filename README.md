@@ -25,3 +25,4 @@
 22.Insert node in sorted list.
 23.REVERSE A LINKED LIST.
 24.REVERSE A LINKED LIST.(Recursive)
+25.Display list from end.
