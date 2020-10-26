@@ -26,3 +26,4 @@
 23.REVERSE A LINKED LIST.
 24.REVERSE A LINKED LIST.(Recursive)
 25.Display list from end.
+26.Check if the list contain even or odd no. of element.
