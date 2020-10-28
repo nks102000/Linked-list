@@ -29,3 +29,4 @@
 26.Check if the list contain even or odd no. of element.
 27.We have pointer at kth element and we have to del that node.(Dont have head pointer).
 28.Merge 2 sorted list.
+29.Split the list in 2 parts from mid.
