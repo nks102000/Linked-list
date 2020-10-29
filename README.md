@@ -32,3 +32,4 @@
 29.Split the list in 2 parts from mid.
 30.Check list is palindrome or not.
 31.Clone a list with nodes having(data,next,randome) without and extra space.
+32.Give the n%kth node from the end where n is the total number of elements and k is any integer.
