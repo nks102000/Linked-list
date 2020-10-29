@@ -31,3 +31,4 @@
 28.Merge 2 sorted list.
 29.Split the list in 2 parts from mid.
 30.Check list is palindrome or not.
+31.Clone a list with nodes having(data,next,randome) without and extra space
