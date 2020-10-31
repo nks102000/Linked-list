@@ -35,4 +35,4 @@
 32.Give the n%kth node from the end where n is the total number of elements and k is any integer.
 33.Give the n/kth node from the end where n is the total number of elements and k is any integer.
 34.Give the n%kth node from the begning where n is the total number of elements and k is any integer.
-35.     Write a program to delete the nodes having duplicate elements in the linked list(unsorted).
+35.Write a program to delete the nodes having duplicate elements in the linked list(unsorted).
